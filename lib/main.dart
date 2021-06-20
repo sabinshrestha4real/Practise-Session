@@ -3,8 +3,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:providerpractise/model/food_model.dart';
-// import 'package:provider/provider.dart';
-import 'package:providerpractise/model/provider.dart';
 import 'package:providerpractise/model/provider_food/counter.dart';
 import 'package:providerpractise/screens/basket.dart';
 import 'package:providerpractise/screens/index.dart';
